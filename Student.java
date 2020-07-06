@@ -1,6 +1,7 @@
 class Student{
   
   int stdID=101;
+  String stdName="Asad";
 
 public static void main(String args[]){
 
